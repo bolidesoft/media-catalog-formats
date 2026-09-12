@@ -52,9 +52,9 @@ CSV в UTF-8 (открываются в Excel и LibreOffice как есть), J
 
 ## О проекте
 
-Поддерживается [Bolide Software](https://www.bolidesoft.com/index_ru.html),
-разработчиком [All My Movies](https://www.bolidesoft.com/allmymovies_ru.html)
-и [All My Books](https://www.bolidesoft.com/allmybooks_ru.html). Обе
+Поддерживается [Bolide Software](https://www.bolidesoft.com/rus/),
+разработчиком [All My Movies](https://www.bolidesoft.com/rus/allmymovies.html)
+и [All My Books](https://www.bolidesoft.com/rus/allmybooks.html). Обе
 программы импортируют все перечисленные форматы напрямую (с обложками,
 актёрами и эпизодами), а формат их собственных баз описан здесь, чтобы ваши
 данные оставались вашими, чем бы вы ни пользовались дальше.
