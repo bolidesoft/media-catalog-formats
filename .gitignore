@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*_export/
+# never commit collections
+*.amm
+*.amb
+*.dmo
+*.dbo
+*.dmb
+*.amc
+*.bkc
+*.mvc
+*.db
